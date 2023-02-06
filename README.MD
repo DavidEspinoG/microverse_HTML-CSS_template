@@ -23,15 +23,15 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Name of the project <a id="about-project"></a>
+# 📖 Portfolio <a id="about-project"></a>
 
-> Project created for...
+> Project created for showing my expirience as a software developer
 
 ## 🛠 Built With <a id="built-with"></a>
 
 ### Tech Stack <a id="tech-stack"></a>
 
-> Technologies ...
+> HTML & CSS
 
 <details>
   <summary>Client</summary>
@@ -58,9 +58,8 @@
 
 ### Key Features <a id="key-features"></a>
 
-- Feature
-- Feature
-- Feature
+- Show's the best of my work as a software developer
+- Responsive web
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -70,7 +69,9 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link(deploy pending)](https://yourdeployedapplicationlink.com)
+
+- [Live Demo Link](https://davidespinog.github.io/portfolio/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
